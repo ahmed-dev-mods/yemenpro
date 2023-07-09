@@ -1,0 +1,28 @@
+{
+    "Config_REQUEST": {
+        "AD_SUPPORT": false,
+        "APPLICATION_ID": "1",
+        "APPLICATION_VERSION_NAME": "79",
+        "COUNTRY_CODE": "967",
+        "FIREBASE_ID": "fnH6sRXn1Vh1CcXbpOgzPkKjLQR2",
+        "FIRST_RUN": false,
+        "FIRST_UPDATE": false,
+        "INSTALLED_FROM_GOOGLE_STORE": true,
+        "REQUEST_TYPE": "P_V1_GET_CONTACT_NAMES_BY_PHONE_NO",
+        "T0KEN": "1867388481470"
+    },
+    "KEYS": {
+        "REQUEST": {
+            "keyHex": "676f6f676c652d736572766963657300",
+            "ivHex": "676f6f676c652d736572766963657300"
+        },
+        "RESPONSE": {
+            "keyHex": "616e64726f69642e6170706c69636174",
+            "ivHex": "616e64726f69642e6170706c69636174"
+        },
+        "REQUEST_DELETE": {
+            "keyHex": "676f6f676c652d736572766963657300",
+            "ivHex": "676f6f676c652d736572766963657300"
+        }
+    }
+}
